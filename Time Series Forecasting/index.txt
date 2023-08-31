@@ -1,1 +1,1 @@
-
+This project is based on temperature forecasting in Armagh based on monthly and yearly data. R is used where statistical analysis like the augmented Dickey-Fuller test, the Li Jung Box test, ARIMA, SARIMA, moving average, Exponential Smoothing, and Holt-Winters tests are done.
