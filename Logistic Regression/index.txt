@@ -1,1 +1,1 @@
-
+This project is based on a diabetes dataset, where logistic regression and statistical analysis are done to identify diabetic people using Python. 
